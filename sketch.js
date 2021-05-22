@@ -1,4 +1,4 @@
-var vaccineMuhs1 , vaccineMuhs1Img;
+/*var vaccineMuhs1 , vaccineMuhs1Img;
 var vaccineMuhs2 , vaccineMuhs2Img;
 var vaccineMuhs3 , vaccineMuhs3Img;
 
@@ -30,4 +30,4 @@ vaccineMuhs3.addImage(vaccineMuhs3Img);
 function draw(){
   background("red")
   drawSprites();
-}
+}*/
